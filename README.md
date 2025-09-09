@@ -1,7 +1,3 @@
-Perfecto 👍. Tomando tu ejemplo de **Arduino – lavado de autos**, lo adapto al mismo estilo que el de tu **Avatar 3D**, para que quede homogéneo en tu portafolio:
-
----
-
 # 🤖 Circuito en Arduino para automatizar lavado de autos — Tecweek 2022-I
 
 **Resumen:**
@@ -14,7 +10,7 @@ Ganador del **primer puesto** en la categoría *Arquitectura de Computadoras* en
 
 
 
-![Captura alternativa](assets/CERTIFICADO ARDUINO_page-0001.jpg)
+![Captura alternativa](assets/CERTIFICADOARDUINO_page-0001.jpg)
 
 ---
 
@@ -45,6 +41,5 @@ El proyecto completo (circuitos, diagramas y código fuente en Arduino) está en
 
 Si quieres revisar el código o una demo privada, escríbeme a: **[tu.email@ejemplo.com](mailto:tu.email@ejemplo.com)**
 
----
 
-¿Quieres que también lo prepare en **formato Markdown con emojis técnicos** (igual al del Avatar 3D) para que solo copies/pegues directo a tu GitHub?
+
