@@ -37,9 +37,9 @@ El proyecto completo (circuitos, diagramas y código fuente en Arduino) está en
 
 ---
 
-## 📬 Contacto / CV
+## 📬 Contacto 
+gabrielce992@gmail.com
 
-Si quieres revisar el código o una demo privada, escríbeme a: **[tu.email@ejemplo.com](mailto:tu.email@ejemplo.com)**
 
 
 
